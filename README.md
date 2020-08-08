@@ -22,41 +22,44 @@ a groundbreaking app that will overtake the Tinder.
 - 📫 How to reach me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/" target="blank">
-        <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+    <a href="mailto:jjmreal34@gmail.com" target="blank">
+        <img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
     </a>
     <a href="https://github.com/jmysliv" target="blank">
-        <img align="center" alt="Github" width="30px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">&nbsp; &nbsp;
+        <img align="center" alt="Github" width="100px" src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white">&nbsp; &nbsp;
     </a>
-    <!--
-        <a href="https://github.com/jmysliv" target="blank">
-        <img align="center" alt="Github" width="30px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png">&nbsp; &nbsp;
-    </a> --> 
+    <a href="https://www.linkedin.com/" target="blank">
+        <img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; &nbsp;
+    </a>
 </p>
 
-<!-- # Programming Languages 🌐
 
-- Know/Using
+#  Knowledges :man_technologist:
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
+## Languages
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
+![Erlang](https://img.shields.io/badge/-Erlang-red?style=flat-square&logo=erlang)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNU-bash)
 
-- Learning
+## Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|---|
+## Database
+![SQL](https://img.shields.io/badge/-SQL-black?style=square&logo=Microsoft-SQL-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-# Tools 🛠️
+## Tools 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-darkblue?style=flat-square&logo=docker)
 
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL | many more...
-|---|---|---|---|---|---|---|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
-|---|---|---|---|---|---| -->
+## Learning
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
+![Kotlin](https://img.shields.io/badge/-Kotlin-brown?style=flat-square&logo=kotlin)
+![Spring](https://img.shields.io/badge/-Spring-darkgreen?style=flat-square&logo=spring)
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
@@ -64,7 +67,6 @@ a groundbreaking app that will overtake the Tinder.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jmysliv&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmysliv&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p align="center"> 
   Visitor count<br>
