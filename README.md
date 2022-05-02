@@ -3,7 +3,7 @@
 </h1>
 
 <p align=center>
-    <img alt=age src="https://img.shields.io/badge/age-21-blue"/>
+    <img alt=age src="https://img.shields.io/badge/age-22-blue"/>
     <img alt=focus src="https://img.shields.io/badge/focus-mobile-brightgreen"/>
     <img alt=living src="https://img.shields.io/badge/living-Cracow-3c9"/>
 </p>
@@ -11,13 +11,15 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 
-#### Hi! I am Jakub Myśliwiec and I am currently 3rd year computer science undergraduate student at at AGH University in Cracow.
+#### Hi! I am Jakub Myśliwiec and here you can find some facts about me:
 
 
-- :money_with_wings: Currently employed at : **Software Mansion**
-- :rocket: Currently working on [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-- 🔭 Trying to finish [Engineer's Theorem](https://github.com/Bombardierzy/sozisel)
-- ⚡ Fun fact: My nickname is very explosive :bomb:
+- 💸 Currently employed at: **Software Mansion**
+- 🚀 Working on the [app dedicated to passionate fans](https://faveforfans.com/)
+- 🔭 Computer Science graduate. Check out my [Engineer's Theorem](https://github.com/Bombardierzy/sozisel)
+- 💻 Currently taking master course in Computer Science at AGH University of Science And Technology
+- 🎯 Future goals: learn more about data science
+- ⚡ Fun fact: My nickname is very explosive 💣
 
 - 📫 How to reach me:
 
