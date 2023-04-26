@@ -3,7 +3,7 @@
 </h1>
 
 <p align=center>
-    <img alt=age src="https://img.shields.io/badge/age-22-blue"/>
+    <img alt=age src="https://img.shields.io/badge/age-23-blue"/>
     <img alt=focus src="https://img.shields.io/badge/focus-mobile-brightgreen"/>
     <img alt=living src="https://img.shields.io/badge/living-Cracow-3c9"/>
 </p>
@@ -15,7 +15,7 @@
 
 
 - 💸 Currently employed at: **Software Mansion**
-- 🚀 Working on the [app dedicated to passionate fans](https://faveforfans.com/)
+- 🚀 Working on the [app dedicated to happy campers](https://campy.app/)
 - 🔭 Computer Science graduate. Check out my [Engineer's Theorem](https://github.com/Bombardierzy/sozisel)
 - 💻 Currently taking master course in Computer Science at AGH University of Science And Technology
 - 🎯 Future goals: learn more about data science
