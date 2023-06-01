@@ -16,7 +16,7 @@
 
 - 💸 Currently employed at: **Software Mansion**
 - 🚀 Working on the [app dedicated to happy campers](https://campy.app/)
-- 🔭 Computer Science graduate. Check out my [Engineer's Theorem](https://github.com/Bombardierzy/sozisel)
+- 🔭 Computer Science graduate. Check out my [Engineering Thesis](https://github.com/Bombardierzy/sozisel)
 - 💻 Currently taking master course in Computer Science at AGH University of Science And Technology
 - 🎯 Future goals: learn more about data science
 - ⚡ Fun fact: My nickname is very explosive 💣
