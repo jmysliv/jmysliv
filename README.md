@@ -3,7 +3,7 @@
 </h1>
 
 <p align=center>
-    <img alt=age src="https://img.shields.io/badge/age-23-blue"/>
+    <img alt=age src="https://img.shields.io/badge/age-25-blue"/>
     <img alt=focus src="https://img.shields.io/badge/focus-mobile-brightgreen"/>
     <img alt=living src="https://img.shields.io/badge/living-Cracow-3c9"/>
 </p>
@@ -16,17 +16,13 @@
 
 - 💸 Currently employed at: **Software Mansion**
 - 🚀 Working on the [app dedicated to happy campers](https://campy.app/)
-- 🔭 Computer Science graduate. Check out my [Engineering Thesis](https://github.com/Bombardierzy/sozisel)
-- 💻 Currently taking master course in Computer Science at AGH University of Science And Technology
-- 🎯 Future goals: learn more about data science
+- 🔭 MSc in Computer Science.
+- 🎯 Future goals: learn more about AI
 - ⚡ Fun fact: My nickname is very explosive 💣
 
 - 📫 How to reach me:
 
 <p align="center">
-    <a href="mailto:jmysliwiec@student.agh.edu.pl" target="blank">
-        <img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
-    </a>
     <a href="https://github.com/jmysliv" target="blank">
         <img align="center" alt="Github" width="100px" src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white">&nbsp; &nbsp;
     </a>
