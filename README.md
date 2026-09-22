@@ -3,7 +3,7 @@
 </h1>
 
 <p align=center>
-    <img alt=age src="https://img.shields.io/badge/age-25-blue"/>
+    <img alt=age src="https://img.shields.io/badge/age-27-blue"/>
     <img alt=focus src="https://img.shields.io/badge/focus-mobile-brightgreen"/>
     <img alt=living src="https://img.shields.io/badge/living-Cracow-3c9"/>
 </p>
@@ -15,7 +15,5 @@
 
 
 - 💸 Currently employed at: **Software Mansion**
-- 🚀 Working on the [app dedicated to happy campers](https://campy.app/)
 - 🔭 MSc in Computer Science.
-- 🎯 Future goals: learn more about AI
 - ⚡ Fun fact: My nickname is very explosive 💣
